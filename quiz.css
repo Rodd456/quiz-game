@@ -1,0 +1,30 @@
+  
+    * {
+        background-color: #2a9d82;
+        }
+    a {
+    font-size: 30px;
+    color: var(--black);
+    text-decoration: none;
+    padding-right: 10px;
+    }
+    
+    h1 {
+    font-size: 55px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    }
+    
+    body {
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    }
+    
+    header {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    }
